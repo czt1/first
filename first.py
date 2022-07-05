@@ -37,3 +37,5 @@ print(len(string))
 print(string.upper())
 print(string.lower())
 print(string.replace("hello","bad"))
+
+print("hello word")
